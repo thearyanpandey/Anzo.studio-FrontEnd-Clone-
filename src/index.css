@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#homePage-in{
+  position: relative;
+  perspective: 1000px;
+}
+
+#page2{
+  position: relative;
+  perspective: 1000px;
+}
+#page5{
+  position: relative;
+  perspective: 1000px;
+}
+
+.rotateText{
+  transform-origin: 100% 70%;
+}
+.rotateText2{
+  transform-origin: 100% 70%;
+}
+
+#tiltDiv{
+  width: fit-content;
+}
