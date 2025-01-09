@@ -18,7 +18,7 @@ function Page9() {
         trigger: containerRef.current,
         start: "top top",
         end: "bottom top",
-        markers: true,
+        //markers: true,
         scrub: 1, // Smooth scrolling effect
         pin: true, // Don't pin the container
         invalidateOnRefresh: true,

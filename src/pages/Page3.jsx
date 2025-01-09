@@ -18,7 +18,7 @@ function Page3() {
         start: "top center",
         end: "bottom center",
         scrub: true,
-        markers: true, // Uncomment to see trigger points
+        //markers: true, // Uncomment to see trigger points
       }
     });
   }, []);
